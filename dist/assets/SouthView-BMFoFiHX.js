@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as e,b as a,S as s,W as c,o as n}from"./index-BOSah79k.js";const _={class:"container"},r={__name:"SouthView",setup(u){return(i,l)=>(n(),t("main",null,[e(s,{now:"south"}),a("div",_,[e(c,{now:"south"})])]))}},d=o(r,[["__scopeId","data-v-740f8c50"]]);export{d as default};
